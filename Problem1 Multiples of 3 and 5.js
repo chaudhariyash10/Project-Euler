@@ -1,4 +1,4 @@
-const limit = 1000;
+let limit = 1000;
 
 let result = 0;
 

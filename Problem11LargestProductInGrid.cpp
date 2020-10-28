@@ -40,5 +40,5 @@ int main()
         }
     }
 
-        cout << maxProuct << endl;
+        cout << maxProuct ;
 }
